@@ -1,2 +1,2 @@
-gcr.io/kubernetes-helm/tiller:v2.14.1
+FROM gcr.io/kubernetes-helm/tiller:v2.14.1
 MAINTAINER zjk
