@@ -1,2 +1,2 @@
-FROM quay.io/coreos/flannel：v0.10.0
+FROM quay.io/coreos/flannel:v0.11.0-arm64
 MAINTAINER zjk
