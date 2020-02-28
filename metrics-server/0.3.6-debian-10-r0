@@ -1,2 +1,2 @@
-FROM docker.ip/bitnami/metrics-server/0.3.6-debian-10-r0
+FROM docker.io/bitnami/metrics-server/0/bitnami/metrics-server/0.3.6-debian-10-r0
 MAINTAINER zjk
