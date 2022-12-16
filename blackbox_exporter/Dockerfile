@@ -1,1 +1,1 @@
-FROM prom/blcakbox_exporter:latest
+FROM prom/blackbox_exporter:latest
