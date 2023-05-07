@@ -1,0 +1,2 @@
+FROM docker.elastic.co/logstash/logstash:8.5.1
+MAINTAINER zjk
