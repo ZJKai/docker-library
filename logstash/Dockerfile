@@ -1,2 +1,2 @@
-FROM docker.elastic.co/logstash/logstash:8.5.1
+FROM docker.elastic.co/logstash/logstash:7.17.3
 MAINTAINER zjk
