@@ -1,1 +1,1 @@
-FROM openresty/openresty:1.21.4.1-3-alpine
+FROM openresty/openresty:1.21.4.1-7-focal
